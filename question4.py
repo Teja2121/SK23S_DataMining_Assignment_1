@@ -8,11 +8,11 @@ def question4_2():
     return answer
 
 def question4_3():
-    answer = ['ratio', 'ordinal']
+    answer = ['ratio', 'interval']
     return answer 
 
 def question4_4():
-    answer = ['ratio', 'ordinal']
+    answer = ['ratio', 'interval']
     return answer
 
 def question4_5():
