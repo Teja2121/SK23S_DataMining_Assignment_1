@@ -13,7 +13,7 @@ def question10_2():
 
 def question10_3():
     answer: python bool (True)
-    justify =  'Sampling is a simpler process becuase aggregation may involve complex calculations.'
+    justify =  'Sampling is a simpler process because aggregation may involve complex calculations.'
     return answer
 
 def question10_4():
