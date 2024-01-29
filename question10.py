@@ -17,8 +17,8 @@ def question10_3():
     return answer
 
 def question10_4():
-    answer: bool = True
-    # Justification : Sometimes noise and outliers can be the same, especially when an outlier behaves like noise and is changing the results significantly. If that outlier is an error in measurement.
+    answer: bool = False
+    # Justification : Noise and outliers are different to each other.
     return answer
 
 def question10_5():
