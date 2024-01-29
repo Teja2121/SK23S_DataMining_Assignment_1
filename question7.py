@@ -2,12 +2,14 @@ def question7_1():
     """
     answer = 'string'
     """
+    answer = 'increase/decrease'
     return answer
 
 def question7_2():
     """
     answer = 'string'
     """
+    answer = 'non-increasing'
     return answer
 
 def question7_3():
