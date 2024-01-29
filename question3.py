@@ -1,6 +1,6 @@
 def question3_1():
     # answer = ['string', 'string', 'string']
-    answer = ['continuous', 'quantitative', 'interval']
+    answer = ['continuous', 'quantitative', 'ratio']
     return answer
 
 def question3_2():
@@ -20,8 +20,7 @@ def question3_5():
     return answer
 
 def question3_6():
-    answer = ['discrete', 'quantitative', 'ratio']
-    # assumption in asnwering : assuming a richter scale of 0-10
+    answer = ['continuous', 'quantitative', 'ratio']
     return answer
 
 def question3_7():
