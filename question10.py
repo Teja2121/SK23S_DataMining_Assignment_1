@@ -18,7 +18,7 @@ def question10_3():
 
 def question10_4():
     answer: bool = True
-    # Justification : Sometimes noise and outliers can be the same, especially when an outlier behaves like noise and is changing the results significantly.
+    # Justification : Sometimes noise and outliers can be the same, especially when an outlier behaves like noise and is changing the results significantly. If that outlier is an error in measurement.
     return answer
 
 def question10_5():
@@ -32,8 +32,8 @@ def question10_6():
     return answer
 
 def question10_7():
-    answer: python = False
-    # Justification : The objects might not be identical, because their magnitudes might be different and cosine similarity doesn't account for that.
+    answer: python = True
+    # Justification : They are identical because cosine similarity of 1 means the objects are identical.
     return answer
 
 def question10_8():
