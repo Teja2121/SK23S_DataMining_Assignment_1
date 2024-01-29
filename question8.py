@@ -2,7 +2,7 @@ def question8_1():
     """
     answer= 'string'  or ['pt1', 'pt2']
     """
-    answer = ['y1', 'y2']
+    answer = 'equally similar'
     return answer
 
 def question8_2():
