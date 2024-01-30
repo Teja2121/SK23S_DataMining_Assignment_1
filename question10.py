@@ -32,8 +32,8 @@ def question10_6():
     return answer
 
 def question10_7():
-    answer: python = True
-    # Justification : They are identical because cosine similarity of 1 means the objects are identical.
+    answer: python = False
+    # Justification : The object may or may not be identical as the magnitude might be different
     return answer
 
 def question10_8():
