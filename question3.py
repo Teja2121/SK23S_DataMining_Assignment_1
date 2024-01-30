@@ -25,7 +25,6 @@ def question3_6():
 
 def question3_7():
     answer = ['continuous', 'quantitative', 'ratio']
-    # assumption in answering : Median can be true zero too
     return answer
 
 def question3_8():
