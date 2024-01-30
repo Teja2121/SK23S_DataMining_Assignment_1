@@ -1,6 +1,6 @@
 def question3_1():
     # answer = ['string', 'string', 'string']
-    answer = ['continuous', 'quantitative', 'inverval']
+    answer = ['continuous', 'quantitative', 'interval']
     return answer
 
 def question3_2():
