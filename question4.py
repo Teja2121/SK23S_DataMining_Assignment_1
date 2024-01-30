@@ -12,7 +12,7 @@ def question4_3():
     return answer 
 
 def question4_4():
-    answer = ['ratio', 'interval']
+    answer = ['ratio', 'ordinal']
     return answer
 
 def question4_5():
