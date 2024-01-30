@@ -25,7 +25,6 @@ def question4_6():
 
 def question4_7():
     answer = ['ratio', 'ratio']
-    # assumption : Doesn't have an absolute zero
     return answer
 
 def question4_8():
