@@ -14,10 +14,10 @@ def question9_3():
     return answer 
 
 def question9_4():
-    answer = 'cosine similarity'
+    answer = 'euclidean'
     return answer 
 
 def question9_5():
-    answer = 'cosine similarity'
+    answer = 'euclidean'
     return answer 
 
