@@ -13,7 +13,7 @@ def question10_2():
 
 def question10_3():
     answer: bool = False
-    # Justification : Sampling is a simpler process becuase aggregation may involve complex calculations.
+    # Justification : Sampling is a simpler process but aggregation can be better than sampling.
     return answer
 
 def question10_4():
