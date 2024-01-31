@@ -37,12 +37,12 @@ def question10_7():
     return answer
 
 def question10_8():
-    answer: bool = True
+    answer: bool = False
     # Justification : Discrete variables can be sometimes ratio. Like the number of cars in a parking lot (it can never be infinite)
     return answer
 
 def question10_9():
-    answer: bool = False
+    answer: bool = True
     # Justification : Quantitative variables can be discrete too. 
     return answer
 
