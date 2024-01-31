@@ -27,12 +27,12 @@ def question10_5():
     return answer
 
 def question10_6():
-    answer: bool = True
+    answer: bool = False
     # Justification : Not every binary attribute can be an assymetric binary attribute because sometimes 0 or 1 can be given equal importance. 
     return answer
 
 def question10_7():
-    answer: python = False
+    answer: python = True
     # Justification : The object may or may not be identical as the magnitude might be different
     return answer
 
