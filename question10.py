@@ -8,7 +8,7 @@ def question10_1():
 
 def question10_2():
     answer: bool = False
-    # Justification : The values isn't between the given range
+    # Justification : The values isn't between the given range.
     return answer
 
 def question10_3():
@@ -17,7 +17,7 @@ def question10_3():
     return answer
 
 def question10_4():
-    answer: bool = False
+    answer: bool = True
     # Justification : Noise and outliers are different to each other.
     return answer
 
