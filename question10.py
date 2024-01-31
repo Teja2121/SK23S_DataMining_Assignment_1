@@ -2,7 +2,7 @@ def question10_1():
     """
     answer: python bool (True or False)
     """
-    answer: bool = False
+    answer: bool = True
     # Descripton : Count data can sometimes be affected by noise like measurement errors.
     return answer
 
