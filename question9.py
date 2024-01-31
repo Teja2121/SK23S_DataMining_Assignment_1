@@ -2,15 +2,15 @@ def question9_1():
     """
     answer = 'string'
     """
-    answer = 'jaccard'
-    return answer
-
-def question9_2():
     answer = 'smc'
     return answer
 
+def question9_2():
+    answer = 'jaccard'
+    return answer
+
 def question9_3():
-    answer = 'correlation coefficient'
+    answer = 'euclidean'
     return answer 
 
 def question9_4():
