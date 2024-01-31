@@ -22,12 +22,12 @@ def question10_4():
     return answer
 
 def question10_5():
-    answer: bool = True
+    answer: bool = False
     # Justification : Not every case of outlier can be a noise, because some outliers might be valid.
     return answer
 
 def question10_6():
-    answer: bool = False
+    answer: bool = True
     # Justification : Not every binary attribute can be an assymetric binary attribute because sometimes 0 or 1 can be given equal importance. 
     return answer
 
