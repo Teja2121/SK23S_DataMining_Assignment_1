@@ -32,7 +32,7 @@ def question10_6():
     return answer
 
 def question10_7():
-    answer: python = True
+    answer: bool = True
     # Justification : The objects are identical because their cosine similarity is 1.
     return answer
 
