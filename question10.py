@@ -18,11 +18,11 @@ def question10_3():
 
 def question10_4():
     answer: bool = True
-    # Justification : Noise and outliers are different to each other.
+    # Justification : Noise and outliers can be sometimes the same as outliers can be noise in selective cases.
     return answer
 
 def question10_5():
-    answer: bool = False
+    answer: bool = True
     # Justification : Not every case of outlier can be a noise, because some outliers might be valid.
     return answer
 
