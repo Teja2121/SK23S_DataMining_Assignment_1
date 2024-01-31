@@ -6,7 +6,7 @@ def question9_1():
     return answer
 
 def question9_2():
-    answer = 'jaccard'
+    answer = 'smc'
     return answer
 
 def question9_3():
