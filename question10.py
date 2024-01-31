@@ -7,7 +7,7 @@ def question10_1():
     return answer
 
 def question10_2():
-    answer: bool = True
+    answer: bool = False
     # Justification : The value of correlation coefficient ranges from -1 (Perfect negative correlation) to 1 (Perfect positive correlation).
     return answer
 
