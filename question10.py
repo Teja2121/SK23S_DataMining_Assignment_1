@@ -33,11 +33,11 @@ def question10_6():
 
 def question10_7():
     answer: python = True
-    # Justification : The object may or may not be identical as the magnitude might be different
+    # Justification : The objects are identical because their cosine similarity is 1.
     return answer
 
 def question10_8():
-    answer: bool = False
+    answer: bool = True
     # Justification : Discrete variables can be sometimes ratio. Like the number of cars in a parking lot (it can never be infinite)
     return answer
 
