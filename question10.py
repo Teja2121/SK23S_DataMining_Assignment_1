@@ -42,11 +42,11 @@ def question10_8():
     return answer
 
 def question10_9():
-    answer: bool = True
+    answer: bool = False
     # Justification : Quantitative variables can be discrete too. 
     return answer
 
 def question10_10():
-    answer: bool = False
+    answer: bool = True
     # Justification : There might be some loss like loss in the ordering of the variables.
     return answer
