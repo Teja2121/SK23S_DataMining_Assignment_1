@@ -2,7 +2,7 @@ def question9_1():
     """
     answer = 'string'
     """
-    answer = 'SMC'
+    answer = 'jaccard'
     return answer
 
 def question9_2():
