@@ -47,6 +47,6 @@ def question10_9():
     return answer
 
 def question10_10():
-    answer: bool = True
+    answer: bool = False
     # Justification : There might be some loss like loss in the ordering of the variables.
     return answer
