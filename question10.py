@@ -8,11 +8,11 @@ def question10_1():
 
 def question10_2():
     answer: bool = False
-    # Justification : The value of correlation coefficient ranges from -1 (Perfect negative correlation) to 1 (Perfect positive correlation).
+    # Justification : The values isn't between the given range
     return answer
 
 def question10_3():
-    answer: bool = True
+    answer: bool = False
     # Justification : Sampling is a simpler process becuase aggregation may involve complex calculations.
     return answer
 
